@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+<!--
+백준 잔디 이미지로 보여주기
   <img src="http://mazandi.herokuapp.com/api?handle=thk98k&theme=warm"/>
+-->
 
 
 <!--

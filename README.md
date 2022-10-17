@@ -1,5 +1,12 @@
-### Hi there 👋
+Taeabong98 / README.md
 
+
+## 📚TechStack📚
+<img alt="Spring" src ="https://img.shields.io/badge/Spring-FFFFFF.svg?&style=for-the-badge&logo=Spring&logoColor=White"/> <img alt="Spring" src ="https://img.shields.io/badge/Spring Boot-FFFFFF.svg?&style=for-the-badge&logo=Spring Boot&logoColor=White"/>
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 <!--
 백준 잔디 이미지로 보여주기
   <img src="http://mazandi.herokuapp.com/api?handle=thk98k&theme=warm"/>

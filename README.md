@@ -1,4 +1,4 @@
-## ## 👋 안녕하세요! <a href="https://taebong98.notion.site/Home-44c0e3bd6cb64508904849d65e8ea11d" target="_blank">김태현</a>입니다.
+## 👋 안녕하세요! <a href="https://taebong98.notion.site/Home-44c0e3bd6cb64508904849d65e8ea11d" target="_blank">김태현</a>입니다.
 
 
 ### 모르는 내용을 찾아보고 새로운 기술을 공부하는 것을 좋아합니다. <br>특히 백엔드분야에 관심이 많아 자바와 스프링을 공부하고 있습니다.

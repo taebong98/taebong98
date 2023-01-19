@@ -10,9 +10,4 @@
 - 다른사람들에게 보여주거나 설명할만한 내용은 아니지만,
 - 공부했던 내용을 다시 보게되면서 스프링 프레임워크 학습에 큰 도움이 되고 있습니다.
 - 공부하면서 이해가 어려웠던 내용이나 중요하다고 생각하는 내용 위주로 정리합니다.
-<br><br><br>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taebong98)](https://github.com/taebong98/github-readme-stats) <img src="https://github-readme-stats.vercel.app/api?username=taebong98&show_icons=true">
 

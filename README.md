@@ -2,6 +2,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaebong98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <hr>
 
+<div align="center">
+  <h3 align="center"> 😀 About Me 😀 </h3>
+  <span><a href="https://velog.io/@taebong98" target="_blank"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><span>
+  <span><img src="https://img.shields.io/badge/DevelopeNote-7ADB59?style=flat-square&logo=BookStack&logoColor=white"/><span>  
+  <span><img src="https://img.shields.io/badge/thk98k@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><span>
+  
+
+</div>
 
 
 ### 모르는 내용을 찾아보고 새로운 기술을 공부하는 것을 좋아합니다. <br>특히 백엔드분야에 관심이 많아 자바와 스프링을 공부하고 있습니다.

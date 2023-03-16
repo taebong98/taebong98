@@ -1,6 +1,8 @@
-## 👋 안녕하세요! <a href="https://taebong98.notion.site/Home-44c0e3bd6cb64508904849d65e8ea11d" target="_blank">김태현</a>입니다.
-
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=18113D&height=150&text=Back-End%20Developer&fontSize=45)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaebong98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<hr>
+
+
 
 ### 모르는 내용을 찾아보고 새로운 기술을 공부하는 것을 좋아합니다. <br>특히 백엔드분야에 관심이 많아 자바와 스프링을 공부하고 있습니다.
 
@@ -13,4 +15,6 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taebong98&show_icons=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thk98k)](https://solved.ac/thk98k/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taebong98&show_icons=true&theme=radical) 
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thk98k)](https://solved.ac/thk98k/)

@@ -1,6 +1,3 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2508taebong98%2Fhit-counter&count_bg=%2397DEFF&title_bg=%2362CDFF&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
-
 <h1 align="center"> ⭐️ About Me ⭐️ </h1>
 <div align="left">
   
@@ -27,5 +24,13 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taebong98&show_icons=true&theme=radical) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thk98k)](https://solved.ac/thk98k/)
+  
+<br>
+  
+  <div align="right">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaebong98&count_bg=%2397DEFF&title_bg=%2362CDFF&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  </div>
 </div>
 

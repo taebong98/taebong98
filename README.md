@@ -1,7 +1,7 @@
 <h1 align="center"> ⭐️ About Me ⭐️ </h1>
 <div align="left">
    
-
+ 
 
 <div align="center">
   😁 모르는 내용을 찾아보고 새로운 기술을 공부하는 것을 좋아합니다<br>

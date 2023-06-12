@@ -11,7 +11,7 @@
 </div> 
 
 <h1 align="center"> 🛠 Tech Stack 🛠 </h1>
-<div align="center"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
+<div align="center"> <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
 </div>
 
 <h1 align="center"> 😀 Contect 😀 </h1>

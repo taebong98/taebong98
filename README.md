@@ -14,10 +14,6 @@
 <div align="center"> <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
 </div>
 
-<h1 align="center"> 😀 Contect 😀 </h1>
-<div align="center"><a href="https://velog.io/@taebong98" target="_blank"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> <a href=https://www.notion.so/taebong98/3442ab3b91614ae5848feaa5ad3f1f6a?pvs=4 target="_blank"><img src="https://img.shields.io/badge/DevelopeNote-7ADB59?style=flat-square&logo=BookStack&logoColor=white"/></a> <img src="https://img.shields.io/badge/thk98k@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-</div>
-
 <h1 align="center"> 🐥 Activities 🐥 </h1>
 
 <div align="center">

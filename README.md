@@ -5,7 +5,6 @@
 
 <div align="center">
   :speech_balloon: 최신 기술의 기반이 되는 개념 학습을 중요하게 생각합니다.<br>
-  :monocle_face: 백엔드분야에 관심이 많아 자바와 스프링을 공부하고 있습니다.<br>
   :pencil2: 테스트 코드 커버리지를 높이기위해 노력합니다.<br>
   :sparkles: 디자인패턴과 객체지향 설계에 관심이 많습니다.<br>
 </div> 
